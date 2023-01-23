@@ -1,0 +1,15 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 26.21.14.4193]
+    Renderer: NVIDIA GeForce GTX 1050
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1536x864 at 0,0
+Non platform assembly: data-02F4C9F0 (this message is harmless)
+Non platform assembly: data-02FB78D8 (this message is harmless)
+Non platform assembly: data-02FBAB48 (this message is harmless)
+Non platform assembly: data-02FC1B90 (this message is harmless)
+Platform assembly: C:\Users\91885\Desktop\Switch_R3 Windows\skitch_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\91885\Desktop\Switch_R3 Windows\skitch_Data\Managed\Boo.Lang.dll (this message is harmless)
